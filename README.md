@@ -5,6 +5,7 @@
 ## About me
 
 - ⚛️Front-end developer
+- UX enthusiast💻🎨
 
 ## *Best* Projects
 

@@ -6,7 +6,6 @@
 
 - ⚛️Front-end developer
 - UX enthusiast💻🎨
-- (https://img.shields.io/twitter/follow/varJonathanR?label=Reactjs&logo=atom&style=for-the-badge)
 
 ## *Best* Projects
 

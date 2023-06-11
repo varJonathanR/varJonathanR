@@ -15,4 +15,9 @@
       <h3 align="center">Edie Homepage</h3>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Edie Homepage</h3>
+    </td>
+  </tr>
 </table>

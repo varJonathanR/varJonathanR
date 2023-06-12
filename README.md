@@ -41,7 +41,7 @@
             <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&color=fbfc40">
           </a>
         </p>
-        <p>Edie homepage project for [devChallenges.io](https://devchallenges.io/)</p>
+        <p>Edie homepage project for <a href="https://devchallenges.io/" target="_blank">devChallenges.io</a></p>
       </div>                                                                               
   </td>
   <td width="50%">

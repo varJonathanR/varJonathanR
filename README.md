@@ -9,11 +9,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfoliov1-varjonathanr.netlify.app/](https://portfoliov1-varjonathanr.netlify.app/)
+- 👨‍💻 All of my projects are available at [example.com]()
 
 - 📫 How to reach me **example@gmail.com**
 
 - 📄 Know about my experiences [https://portfoliov1-varjonathanr.netlify.app/](https://portfoliov1-varjonathanr.netlify.app/)
+
+- - ⚡ Fun fact **Programming in the rain is my favorite way to stimulate my creativity. The sound of raindrops and cozy atmosphere inspire me to create new and interesting things.**
 
 ## Connect with me:
 <p align="left">

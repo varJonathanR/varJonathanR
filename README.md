@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://portfoliov1-varjonathanr.netlify.app/](https://portfoliov1-varjonathanr.netlify.app/)
 
-- - ⚡ Fun fact **Programming in the rain is my favorite way to stimulate my creativity. The sound of raindrops and cozy atmosphere inspire me to create new and interesting things.**
+- ⚡ Fun fact **Programming in the rain is my favorite way to stimulate my creativity. The sound of raindrops and cozy atmosphere inspire me to create new and interesting things.**
 
 ## Connect with me:
 <p align="left">

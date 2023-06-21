@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **example@gmail.com**
 
-- 📄 Know about my experiences [https://portfoliov1-varjonathanr.netlify.app/](https://portfoliov1-varjonathanr.netlify.app/)
+- 📄 Know about my experiences [example.pdf]()
 
 - ⚡ Fun fact **Programming in the rain is my favorite way to stimulate my creativity. The sound of raindrops and cozy atmosphere inspire me to create new and interesting things.**
 

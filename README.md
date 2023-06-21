@@ -5,8 +5,6 @@
 
 ## About me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varjonathanr" alt="varjonathanr" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [example.com]()
@@ -64,8 +62,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varjonathanr&show_icons=true&locale=en&layout=compact" alt="varjonathanr" /></p>
-
 ## **Most memorable** projects
 
 <table>
@@ -104,3 +100,11 @@
     </table>                                                                                 
   </div>
 <br>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varjonathanr&show_icons=true&locale=en&layout=compact" alt="varjonathanr" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varjonathanr&show_icons=true&locale=en" alt="varjonathanr" />
+</p>

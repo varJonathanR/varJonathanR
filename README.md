@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [example.pdf]()
 
-- ⚡ Fun fact **Programming in the rain is my favorite way to stimulate my creativity. The sound of raindrops and cozy atmosphere inspire me to create new and interesting things.**
+- ⚡ Fun fact **Programming while raining is my favorite way to stimulate my creativity. The sound of raindrops and cozy atmosphere inspire me to create new and interesting things.**
 
 ## Connect with me:
 <p align="left">

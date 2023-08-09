@@ -6,7 +6,7 @@
 
 ## About me
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [example.com]()
 

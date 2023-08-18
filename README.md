@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **example@gmail.com**
 
-- 📄 Know about my experiences [example.pdf]()
-
 - ⚡ Fun fact **Programming while raining is my favorite way to stimulate my creativity. The sound of raindrops and cozy atmosphere inspire me to create new and interesting things.**
 
 ## Connect with me:
@@ -63,7 +61,7 @@
   </a>
 </p>
 
-## **Most memorable** projects
+## **Showcase** projects
 
 <table>
 <tr>
@@ -79,24 +77,24 @@
             <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&color=fbfc40">
           </a>
         </p>
-        <p>Edie homepage project for <a href="https://devchallenges.io/" target="_blank">devChallenges.io</a></p>
+        <p>An elegantly designed React project featuring a simple homepage that offers a seamless user experience and essential information.</p>
       </div>                                                                               
   </td>
   <td width="50%">
     <br>
-    <h3 align="center">Portfolio V1</h3>
+    <h3 align="center">Todo App</h3>
     <div align="center">                                       
-      <a href="https://portfoliov1-varjonathanr.netlify.app/" target="_blank"><img src="https://github.com/varJonathanR/portfolio-v1/blob/main/src/assets/portfoliov1_preview.png" width="400" alt="Portfolio v1 preview"></a>
+      <a href="https://todo-app-varjonathanr.netlify.app/" target="_blank"><img src="https://github.com/varJonathanR/todo-app/blob/main/src/assets/todo-app_preview.png" width="400" alt="Todo App preview"></a>
       <br>
       <p>
-        <a href="https://github.com/varJonathanR/portfolio-v1.git" target="_blank">
+        <a href="https://github.com/varJonathanR/todo-app" target="_blank">
           <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
        </a>
-        <a href="https://portfoliov1-varjonathanr.netlify.app/" target="_blank">
+        <a href="https://todo-app-varjonathanr.netlify.app/" target="_blank">
          <img src="https://img.shields.io/badge/DEM0-green?style=for-the-badge&color=3fFD7f">
         </a>
       </p>
-      <p>My own v1 Portfolio</p>
+      <p>Experience a streamlined Todo App powered by React. Easily add, update, and complete tasks through an intuitive interface. This project showcases real-time updates and responsive design, providing insights into efficient React development.</p>
      </div>                                                             
     </table>                                                                                 
   </div>

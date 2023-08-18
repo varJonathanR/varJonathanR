@@ -6,7 +6,7 @@
 
 ## About me
 
-- 🌱 Currently learning **Node.js**
+- 🌱 Currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [example.com]()
 

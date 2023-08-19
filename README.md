@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [example.com]()
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **varjonathanr@gmail.com**
 
 - ⚡ Fun fact **Programming while raining is my favorite way to stimulate my creativity. The sound of raindrops and cozy atmosphere inspire me to create new and interesting things.**
 

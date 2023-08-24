@@ -7,8 +7,10 @@
 ## About me
 
 - 🌱 Currently learning **Redux**
+  
+- 🔗 All my links are available at [LinkTree](https://linktr.ee/varjonathanr)
 
-- 👨‍💻 All of my projects are available at [example.com]()
+- 👨‍💻 All of my projects are available at [varJonathanR](https://varjonathanrv1.netlify.app/)
 
 - 📫 How to reach me **varjonathanr@gmail.com**
 

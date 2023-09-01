@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋 , I'm Jonathan Rodríguez</h1>
   <h3 align="center">Passionate Frontend developer from El Salvador</h3>
-  <img align="rigth" alt="Hero Frontend" src="https://github.com/varJonathanR/varJonathanR/blob/main/herofrontend.gif">
+  <img align="rigth" alt="Hero Frontend" src="https://github.com/varJonathanR/varJonathanR/blob/main/vJRBanner.png">
 </div>
 
 ## About me

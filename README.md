@@ -3,30 +3,12 @@
 
 ## About me
 
+I am a self-taught Front End developer who has earned certifications independently and has created projects showcasing my skills and knowledge. My personal goal is to become a Full Stack developer, continuing to learn and refine my programming skills.
+
 - 🌱 Currently learning **Redux**
-  
-- 🔗 All my links are available at [LinkTree](https://linktr.ee/varjonathanr)
 
 - 👨‍💻 All of my projects are available at [varJonathanR](https://varjonathanrv1.netlify.app/)
 
-- 📫 How to reach me **varjonathanr@gmail.com**
-
-<br>
-
-## Connect with me:
-
-<a href="https://www.linkedin.com/in/jonathanrodriguez04" target="blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" />
-</a>
-
-<br>
-
-## 📚 Education
-
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 <br>
 
 ## 💻 Languages, Frameworks, and Tools
@@ -48,6 +30,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" align="left" width="40px" style="padding-right: 8px;" />
 <br>
+&nbsp;
 
 ## ⚙️ **Showcase** projects
 
@@ -88,6 +71,22 @@
     </div>                                                                               
   </td>                                                 
 </table>    
+<br>
+
+## 📚 Education
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+<br>
+
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/jonathanrodriguez04" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" />
+</a>
+
 <br>
 
 ## 📊 Stats

@@ -86,7 +86,7 @@ I am a self-taught Front End developer who has earned certifications independent
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/jonathanrodriguez04" target="blank">
+<a href="https://www.linkedin.com/in/jonathanrodriguez04" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" />
 </a>
 

@@ -5,7 +5,7 @@
 
 I am a self-taught Front End developer who has earned certifications independently and has created projects showcasing my skills and knowledge. My personal goal is to become a Full Stack developer, continuing to learn and refine my programming skills.
 
-- 🌱 Currently learning **`Redux`**
+- 🌱 Currently learning **`Redux`** and **`Redis`**
 
 - 👨‍💻 All of my projects are available at [varJonathanR](https://varjonathanrv1.netlify.app/)
 
@@ -30,6 +30,7 @@ I am a self-taught Front End developer who has earned certifications independent
 ### 🌱 Currently Learnig
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" align="left" width="50px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" align="left" width="50px" style="padding-right: 8px;" />
 <br>
 &nbsp;
 

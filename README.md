@@ -66,7 +66,7 @@ I am a self-taught Front End developer who has earned certifications independent
           <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <a href="https://todo-app-varjonathanr.netlify.app/" target="_blank">
-         <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&color=fbfc40">
+         <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&color=088F8F">
       </a>
       </div>
       <p>An elegantly designed React project featuring a simple homepage that offers a seamless user experience and essential information.</p>

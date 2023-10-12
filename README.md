@@ -1,5 +1,5 @@
 # 🚀 Jonathan Rodríguez
-**`Web Developer (React/JavaScript)`**
+**`Web Developer (FrontEnd/React)`**
 
 ## About me
 

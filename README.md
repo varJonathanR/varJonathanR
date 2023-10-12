@@ -82,6 +82,7 @@ I am a self-taught Front End developer who has earned certifications independent
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+[![devChallenges.io](https://img.shields.io/badge/devChallenges.io-d33a03?style=for-the-badge&logo=Accenture&logoColor=white)](https://legacy.devchallenges.io)
 <br>
 
 ## 🤝 Connect with me:

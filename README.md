@@ -37,7 +37,7 @@ I am a self-taught Front End developer who has earned certifications independent
 ## 📜 Licenses & certifications
 
 [![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://freecodecamp.org/certification/fcc32dbcb5f-6397-4d91-b557-311e9e5f905f/responsive-web-design)
-[![Responsive Web Developer](https://img.shields.io/badge/Responsive_Web_Developer-white?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/certificates/jixYg9EIzMo2Zmj8emO3)
+[![Responsive Web Developer](https://img.shields.io/badge/Responsive_Web_Developer-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/certificates/jixYg9EIzMo2Zmj8emO3)
 [![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://freecodecamp.org/certification/fcc32dbcb5f-6397-4d91-b557-311e9e5f905f/javascript-algorithms-and-data-structures)
 [![Front End Development Libraries](https://img.shields.io/badge/Front_End_Development_Libraries-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://freecodecamp.org/certification/fcc32dbcb5f-6397-4d91-b557-311e9e5f905f/front-end-development-libraries)
 

@@ -13,22 +13,22 @@ I am a self-taught Front End developer who has earned certifications independent
 
 ## 💻 Languages, Frameworks, and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TilwindCSS" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" align="left" width="50px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" align="left" width="50px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TilwindCSS" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" align="left" width="45px" style="padding-right: 8px;" />
 <br>
 &nbsp;
 
 ### 🌱 Currently Learnig
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" align="left" width="50px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" align="left" width="45px" style="padding-right: 8px;" />
 <br>
 &nbsp;
 

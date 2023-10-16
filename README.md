@@ -83,12 +83,12 @@ I am a self-taught Front End developer who has earned certifications independent
 
 ## 📚 Education
 
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://freecodecamp.org/)
+[![freecodecamp](https://img.shields.io/badge/freecodecamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 [![devChallenges.io](https://img.shields.io/badge/devChallenges.io-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/)
-[![Redis University](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://university.redis.com/)
+[![Redis University](https://img.shields.io/badge/Redis_University-DD0031?style=for-the-badge&logo=Redis&logoColor=white)](https://university.redis.com)
 <br>
 
 ## 🤝 Connect with me:

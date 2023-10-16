@@ -29,6 +29,7 @@ I am a self-taught Front End developer who has earned certifications independent
 ### 🌱 Currently Learnig
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" align="left" width="45px" style="padding-right: 8px;" />
 <br>
 &nbsp;
 
@@ -82,11 +83,12 @@ I am a self-taught Front End developer who has earned certifications independent
 
 ## 📚 Education
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://freecodecamp.org)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 [![devChallenges.io](https://img.shields.io/badge/devChallenges.io-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io)
+[![Redis University](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)]()
 <br>
 
 ## 🤝 Connect with me:

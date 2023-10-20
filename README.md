@@ -31,7 +31,6 @@ I am a self-taught Front End developer who has earned certifications independent
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" align="left" width="45px" style="padding-right: 8px;" />
-
 <br>
 &nbsp;
 

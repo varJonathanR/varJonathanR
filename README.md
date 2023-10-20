@@ -88,6 +88,7 @@ I am a self-taught Front End developer who has earned certifications independent
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 [![devChallenges.io](https://img.shields.io/badge/devChallenges.io-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/portfolio/varJonathanR)
+[![FrontEnd Mentor](https://img.shields.io/badge/FrontEnd_Mentor-4054a0?style=for-the-badge&logo=Frontendmentor&logoColor=%236bbece)](https://www.frontendmentor.io/profile/varJonathanR)
 [![Redis University](https://img.shields.io/badge/Redis_University-DD0031?style=for-the-badge&logo=Redis&logoColor=white)](https://university.redis.com/u/varJonathanR)
 <br>
 

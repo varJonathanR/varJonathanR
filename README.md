@@ -11,7 +11,15 @@ I am a self-taught Front End developer who has earned certifications independent
 
 <br>
 
-## 💻 Languages, Frameworks, and Tools
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/jonathanrodriguez04" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45px" />
+</a>
+
+<br>
+
+## 🖥 Languages, Frameworks, and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" align="left" width="45px" style="padding-right: 8px;" />
@@ -23,6 +31,7 @@ I am a self-taught Front End developer who has earned certifications independent
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" align="left" width="45px" style="padding-right: 8px;" />
+
 <br>
 &nbsp;
 
@@ -30,10 +39,11 @@ I am a self-taught Front End developer who has earned certifications independent
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" align="left" width="45px" style="padding-right: 8px;" />
+
 <br>
 &nbsp;
 
-## 📜 Licenses & certifications
+## 📃 Licenses & certifications
 
 [![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://freecodecamp.org/certification/fcc32dbcb5f-6397-4d91-b557-311e9e5f905f/responsive-web-design)
 [![Responsive Web Developer](https://img.shields.io/badge/Responsive_Web_Developer-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/certificates/jixYg9EIzMo2Zmj8emO3)
@@ -78,7 +88,8 @@ I am a self-taught Front End developer who has earned certifications independent
       <p>An elegantly designed React project featuring a simple homepage that offers a seamless user experience and essential information.</p>
     </div>                                                                               
   </td>                                                 
-</table>    
+</table>  
+  
 <br>
 
 ## 📚 Education
@@ -90,15 +101,8 @@ I am a self-taught Front End developer who has earned certifications independent
 [![devChallenges.io](https://img.shields.io/badge/devChallenges.io-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/portfolio/varJonathanR)
 [![FrontEnd Mentor](https://img.shields.io/badge/FrontEnd_Mentor-4054a0?style=for-the-badge&logo=Frontendmentor&logoColor=%236bbece)](https://www.frontendmentor.io/profile/varJonathanR)
 [![Redis University](https://img.shields.io/badge/Redis_University-DD0031?style=for-the-badge&logo=Redis&logoColor=white)](https://university.redis.com/u/varJonathanR)
-<br>
-
-## 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/jonathanrodriguez04" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" />
-</a>
 
 <br>
 
 ## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=varJonathanR&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-stats.vercel.app/api?username=varJonathanR&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) 

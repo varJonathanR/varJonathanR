@@ -14,12 +14,12 @@ I am a self-taught Front End developer who has earned certifications independent
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/jonathanrodriguez04" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" />
 </a>
 
 <br>
 
-## 🖥 Languages, Frameworks, and Tools
+## 🖥 Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" align="left" width="45px" style="padding-right: 8px;" />
@@ -84,7 +84,7 @@ I am a self-taught Front End developer who has earned certifications independent
          <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&color=088F8F">
       </a>
       </div>
-      <p>An elegantly designed React project featuring a simple homepage that offers a seamless user experience and essential information.</p>
+      <p>A simple TODO app, the added items are not removed when refreshing the page.</p>
     </div>                                                                               
   </td>                                                 
 </table>  
@@ -93,13 +93,13 @@ I am a self-taught Front End developer who has earned certifications independent
 
 ## 📚 Education
 
-[![freecodecamp](https://img.shields.io/badge/freecodecamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/varJonathanR)
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/varJonathanR)
+[![freecodecamp](https://img.shields.io/badge/freecodecamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/varJonathanR "Go to my freeCodeCamp profile")
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/varJonathanR "Go to my Exercism profile")
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-[![devChallenges.io](https://img.shields.io/badge/devChallenges.io-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/portfolio/varJonathanR)
-[![FrontEnd Mentor](https://img.shields.io/badge/FrontEnd_Mentor-4054a0?style=for-the-badge&logo=Frontendmentor&logoColor=%236bbece)](https://www.frontendmentor.io/profile/varJonathanR)
-[![Redis University](https://img.shields.io/badge/Redis_University-DD0031?style=for-the-badge&logo=Redis&logoColor=white)](https://university.redis.com/u/varJonathanR)
+[![devChallenges.io](https://img.shields.io/badge/devChallenges.io-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/portfolio/varJonathanR "Go to my Legacy devChallenges profile")
+[![FrontEnd Mentor](https://img.shields.io/badge/FrontEnd_Mentor-4054a0?style=for-the-badge&logo=Frontendmentor&logoColor=%236bbece)](https://www.frontendmentor.io/profile/varJonathanR "Go to my FrontEnd Mentor profile")
+[![Redis University](https://img.shields.io/badge/Redis_University-DD0031?style=for-the-badge&logo=Redis&logoColor=white)](https://university.redis.com/u/varJonathanR "Go to my Redis University profile")
 
 <br>
 

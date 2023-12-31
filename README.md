@@ -5,7 +5,7 @@
 
 I am a self-taught Front End developer who has earned certifications independently and has created projects showcasing my skills and knowledge. My personal goal is to become a MERN developer, also known as Full Stack developer, continuing to learn and refine my programming skills.
 
-- 🌱 Currently learning **`Redux`** and **`Redis`**
+- 🌱 Currently learning **`Redux`**
 
 - 👨‍💻 All of my projects are available at [varJonathanR](https://varjonathanrv1.netlify.app/)
 

@@ -5,7 +5,9 @@
 
 I am a self-taught Front End developer who has earned certifications independently and has created projects showcasing my skills and knowledge. My personal goal is to become a MERN developer, also known as Full Stack developer, continuing to learn and refine my programming skills.
 
-- 🌱 Currently learning **`Redux`**
+- 🌱 Currently learning **`Redux`** & **`TypeScript`**
+
+- 📅 Next Step: **`Next.js`**
 
 - 👨‍💻 All of my projects are available at [varJonathanR](https://varjonathanrv1.netlify.app/)
 
@@ -37,8 +39,13 @@ I am a self-taught Front End developer who has earned certifications independent
 ### 🌱 Currently Learnig
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" align="left" width="45px" style="padding-right: 8px;" />
+<br>
+&nbsp;
 
+### 📅 Next Step
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" align="left" width="45px" style="padding-right: 8px;" />
 <br>
 &nbsp;
 
@@ -62,30 +69,35 @@ I am a self-taught Front End developer who has earned certifications independent
         </a>
         <div>
           <a href="https://github.com/varJonathanR/edie-homepage.git" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/CODE-24292e?style=for-the-badge&logo=github&logoColor=fafbfc">
           </a>
           <a href="https://edie-homepage-varjonathanr.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&color=fbfc40">
+            <img src="https://img.shields.io/badge/DEMO-24292e?style=for-the-badge&logoColor=fafbfc">
           </a>
         </div>
         <p>An elegantly designed React project featuring a simple homepage that offers a seamless user experience and essential information.</p>
       </div>                                                                               
     </td>
     <td width="50%">
-      <h3 align="center">Todo App</h3>
+      <h3 align="center">Weather App</h3>
       <div align="center">
-        <a href="https://todo-app-varjonathanr.netlify.app/" target="_blank">
-          <img src="https://github.com/varJonathanR/todo-app/blob/main/src/assets/todo-app_preview.png" width="400" alt="Edie homepage preview">
+        <a href="https://weather-app-varjonathanr.netlify.app/" target="_blank">
+          <img src="https://github.com/varJonathanR/weather-app/blob/main/public/weather-app_preview.PNG" width="400" alt="Weather App Preview">
         </a>
       <div>
-      <a href="https://github.com/varJonathanR/todo-app" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+      <a href="https://github.com/varJonathanR/weather-app" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-24292e?style=for-the-badge&logo=github&logoColor=fafbfc">
       </a>
-      <a href="https://todo-app-varjonathanr.netlify.app/" target="_blank">
-         <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&color=088F8F">
+      <a href="https://github.com/varJonathanR/weather-app" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-24292e?style=for-the-badge&logoColor=fafbfc">
       </a>
-      </div>
-      <p>A simple TODO app, the added items are not removed when refreshing the page.</p>
+      <p>
+        ✔️ Global Coverage <br>
+        ✔️ 5-Day Forecast <br>
+        ✔️ Current Conditions <br>
+        ✔️ Geolocation <br>
+        ✔️ User-Friendly Interface 
+      </p>
     </div>                                                                               
   </td>                                                 
 </table>  

@@ -56,26 +56,32 @@ I am a self-taught Front End developer who has earned certifications independent
 [![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/varJonathanR/javascript-algorithms-and-data-structures)
 [![Front End Development Libraries](https://img.shields.io/badge/Front_End_Development_Libraries-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/varJonathanR/front-end-development-libraries)
 [![Redis | RU101 Certificate](https://img.shields.io/badge/Redis_|_RU101_Certificate-DD0031?style=for-the-badge&logo=redis&logoColor=white)](https://university.redis.com/certificates/b105f8f676774e6887971c2dc79a9ed9)
+[![Front End Developer](https://img.shields.io/badge/Front_End_Developer-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/certificates/4sIdXFqwKwlbYQzU9Gnx)
 
 ## ⚙️ **Showcase** projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Edie Homepage</h3>
+      <h3 align="center">Github Jobs</h3>
       <div align="center">
-        <a href="https://edie-homepage-varjonathanr.netlify.app/" target="_blank">
-          <img src="https://github.com/varJonathanR/edie-homepage/blob/main/src/assets/edie-homepage-preview.png" width="400" alt="Edie homepage preview">
+        <a href="https://github-jobs-varjonathanr.netlify.app/" target="_blank">
+          <img src="https://github.com/varJonathanR/github-jobs/blob/main/public/github-jobs_preview.png" width="400" alt="Edie homepage preview">
         </a>
         <div>
-          <a href="https://github.com/varJonathanR/edie-homepage.git" target="_blank">
+          <a href="https://github.com/varJonathanR/github-jobs" target="_blank">
             <img src="https://img.shields.io/badge/CODE-24292e?style=for-the-badge&logo=github&logoColor=fafbfc">
           </a>
-          <a href="https://edie-homepage-varjonathanr.netlify.app/" target="_blank">
+          <a href="https://github-jobs-varjonathanr.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-24292e?style=for-the-badge&logoColor=fafbfc">
           </a>
         </div>
-        <p>An elegantly designed React project featuring a simple homepage that offers a seamless user experience and essential information.</p>
+        <p>
+          ✔️ Coverage in 18 Countries <br>
+          ✔️ Filtering Options <br>
+          ✔️ Real-Time Updates <br>
+          ✔️ User-Friendly Interface <br>
+        </p>
       </div>                                                                               
     </td>
     <td width="50%">

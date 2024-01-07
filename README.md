@@ -94,7 +94,7 @@ I am a self-taught Front End developer who has earned certifications independent
       <a href="https://github.com/varJonathanR/weather-app" target="_blank">
           <img src="https://img.shields.io/badge/CODE-24292e?style=for-the-badge&logo=github&logoColor=fafbfc">
       </a>
-      <a href="https://github.com/varJonathanR/weather-app" target="_blank">
+      <a href="https://weather-app-varjonathanr.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/DEMO-24292e?style=for-the-badge&logoColor=fafbfc">
       </a>
       <p>

@@ -7,7 +7,7 @@ I am a self-taught Front End developer who has earned certifications independent
 
 - 🌱 Currently learning **`Redux`** & **`TypeScript`**
 
-- 📅 Next Step: **`Next.js`**
+- 📅 Next Step: **`Node.js`**
 
 - 👨‍💻 All of my projects are available at [varJonathanR](https://varjonathanrv1.netlify.app/)
 
@@ -45,8 +45,8 @@ I am a self-taught Front End developer who has earned certifications independent
 
 ### 📅 Next Step
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" align="left" width="45px" style="padding-right: 8px;" />
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" align="left" width="45px" style="padding-right: 8px;" />
+<br>         
 &nbsp;
 
 ## 📃 Licenses & certifications

@@ -29,19 +29,13 @@ I am a self-taught Front End developer who has earned certifications independent
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TilwindCSS" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" align="left" width="45px" style="padding-right: 8px;" />
 
 ![Astro](https://skillicons.dev/icons?i=astro)
-<br>
-&nbsp;
-
-### 🌱 Currently Learnig
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" align="left" width="45px" style="padding-right: 8px;" />
 <br>
 &nbsp;
 

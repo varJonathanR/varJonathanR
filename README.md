@@ -106,18 +106,5 @@ I am a self-taught Front End developer who has earned certifications independent
   
 <br>
 
-## 📚 Education
-
-[![freecodecamp](https://img.shields.io/badge/freecodecamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/varJonathanR "Go to my freeCodeCamp profile")
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/varJonathanR "Go to my Exercism profile")
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-[![devChallenges.io Legacy](https://img.shields.io/badge/devChallenges.io_Legacy-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/portfolio/varJonathanR "Go to my Legacy devChallenges profile")
-[![devChallenges.io](https://img.shields.io/badge/devChallenges.io-000015?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://devchallenges.io/profile/d4fc14a9-db9f-4c2b-a78a-c41a7287eb48 "Go to my devChallenges profile")
-[![FrontEnd Mentor](https://img.shields.io/badge/FrontEnd_Mentor-4054a0?style=for-the-badge&logo=Frontendmentor&logoColor=%236bbece)](https://www.frontendmentor.io/profile/varJonathanR "Go to my FrontEnd Mentor profile")
-[![Redis University](https://img.shields.io/badge/Redis_University-DD0031?style=for-the-badge&logo=Redis&logoColor=white)](https://university.redis.com/u/varJonathanR "Go to my Redis University profile")
-
-<br>
-
 ## 📊 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varjonathanr&show_icons=true&locale=en&layout=compact" alt="varjonathanr" /></p>

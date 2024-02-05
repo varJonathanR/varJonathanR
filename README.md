@@ -9,7 +9,7 @@ I am a self-taught Front End developer who has earned certifications independent
 
 - 📅 Next Step: **`Node.js`**
 
-- 👨‍💻 All of my projects are available at [varJonathanR](https://varjonathanr.netlify.app/)
+- 👨‍💻 Check out my portfolios: [OS Portfolio](https://varjonathanr.netlify.app/) • [CV Portfolio](https://cv-portfolio-varjonathanr.netlify.app/)
 
 <br>
 

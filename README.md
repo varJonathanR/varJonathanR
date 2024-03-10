@@ -1,13 +1,13 @@
 # 🚀 Jonathan Rodríguez
-**`Web Developer (FrontEnd/React)`**
+**`Web Developer (FrontEnd/BackEnd)`**
 
 ## About me
 
 I am a self-taught Front End developer who has earned certifications independently and has created projects showcasing my skills and knowledge. My personal goal is to become a MERN developer, also known as Full Stack developer, continuing to learn and refine my programming skills.
 
-- 🌱 Currently learning **`Astro`**, **`TypeScript`** & **`Express.js`**
+- 🌱 Currently learning **`MySQL`**, **`Express.js`**
 
-- 📅 Next Step: **`PostgreSQL`**
+- 📅 Next Step: **`PostgreSQL`** | **`Redis`**
 
 - 👨‍💻 Check out my portfolios: [OS Portfolio](https://varjonathanr.netlify.app/) • [CV Portfolio](https://cv-portfolio-varjonathanr.netlify.app/)
 
@@ -36,18 +36,24 @@ I am a self-taught Front End developer who has earned certifications independent
 
 &nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" align="left" width="45px" style="padding-right: 8px;" /><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" align="left" width="45px" style="padding-right: 8px;" /><br>
 
 &nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" align="left" width="45px" style="padding-right: 8px;" />       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" align="left" width="45px" style="padding-right: 8px;" />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" align="left" width="45px" style="padding-right: 8px;" />
 <br>
 &nbsp;
 
 ### 📅 Next Step
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" align="left" width="45px" style="padding-right: 8px;" />
 <br>         
 &nbsp;
 

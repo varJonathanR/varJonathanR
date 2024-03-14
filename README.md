@@ -38,7 +38,8 @@ I am a self-taught Front End developer who has earned certifications independent
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" align="left" width="45px" style="padding-right: 8px;" /><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" align="left" width="45px" style="padding-right: 8px;" /><br>
 
 &nbsp;
 

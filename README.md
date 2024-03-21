@@ -5,7 +5,7 @@
 
 I am a self-taught Front End developer who has earned certifications independently and has created projects showcasing my skills and knowledge. My personal goal is to become a MERN developer, also known as Full Stack developer, continuing to learn and refine my programming skills.
 
-- 🌱 Currently learning **`MySQL`**, **`Express.js`**
+- 🌱 Currently learning **`Next.js`**
 
 - 📅 Next Step: **`PostgreSQL`** | **`Redis`**
 
@@ -32,7 +32,8 @@ I am a self-taught Front End developer who has earned certifications independent
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" align="left" width="45px" style="padding-right: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" align="left" width="45px" style="padding-right: 8px;" /><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" align="left" width="45px" style="padding-right: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" align="left" width="45px" style="padding-right: 8px;" /><br>
 
 &nbsp;
 

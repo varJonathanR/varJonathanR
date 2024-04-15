@@ -119,4 +119,4 @@ I am a self-taught Front End developer who has earned certifications independent
 <br>
 
 ## 📊 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varjonathanr&show_icons=true&locale=en&layout=compact" alt="varjonathanr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varjonathanr&show_icons=true&locale=en&layout=compact&theme=dark" alt="varjonathanr" /></p>

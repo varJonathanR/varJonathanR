@@ -5,11 +5,11 @@
 
 I am a self-taught Front End developer who has earned certifications independently and has created projects showcasing my skills and knowledge. My personal goal is to become a MERN developer, also known as Full Stack developer, continuing to learn and refine my programming skills.
 
-- 🌱 Currently learning **`Next.js`**
+- 🌱 Currently learning **`BackEnd`**
 
-- 📅 Next Step: **`PostgreSQL`** | **`Redis`**
+- 📅 Next Step: **`PostgreSQL`**
 
-- 👨‍💻 Check out my portfolios: [OS Portfolio](https://varjonathanr.netlify.app/) • [CV Portfolio](https://cv-portfolio-varjonathanr.netlify.app/)
+- 👨‍💻 Check out my portfolio: [CV Portfolio](https://cv-portfolio-varjonathanr.netlify.app/)
 
 <br>
 
@@ -53,7 +53,6 @@ I am a self-taught Front End developer who has earned certifications independent
 ### 📅 Next Step
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" align="left" width="45px" style="padding-right: 8px;" />
 <br>       
 &nbsp;
 

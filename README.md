@@ -1,5 +1,5 @@
 # 🚀 Jonathan Rodríguez
-**`Web Developer (FrontEnd/BackEnd)`**
+**`Web Developer (FullStack)`**
 
 ## About me
 

@@ -1,4 +1,4 @@
-# 🚀 Jonathan Rodríguez ![](https://komarev.com/ghpvc/?username=varjonathanr)
+# 🚀 Jonathan Rodríguez
 **`Web Developer (FullStack)`**
 
 ## About me

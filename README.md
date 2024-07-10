@@ -35,13 +35,17 @@
 ![TursoDB](https://img.shields.io/badge/-TursoDB-%234FF8D2?style=flat-square&logo=turso&logoColor=000000)
 
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-![Virtual Box](https://img.shields.io/badge/-Virtual_Box-%23183A61?style=flat-square&logo=virtualbox&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Virtual Box](https://img.shields.io/badge/-Virtual_Box-%23183A61?style=flat-square&logo=virtualbox&logoColor=ffffff)
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![varjonathanr's github stats](https://github-readme-stats.vercel.app/api?username=varjonathanr&show_icons=true&theme=dark)
+<details>
+  <summary>𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=varjonathanr&show_icons=true&theme=dark" />
+  </p>
+</details>

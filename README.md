@@ -1,121 +1,47 @@
-# 🚀 Jonathan Rodríguez
-**`Web Developer (FullStack)`**
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙅𝙤𝙣𝙖𝙩𝙝𝙖𝙣 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯
 
-## About me
+[![](https://img.shields.io/badge/-@varjonathanr-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jonathanrodriguez04)
+[![](https://img.shields.io/badge/-@varjonathanr-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/varjonathanr)
+[![](https://img.shields.io/badge/-Portfolio-%23181717?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://github.com/varjonathanr)
 
-I am a self-taught Front End developer who has earned certifications independently and has created projects showcasing my skills and knowledge. My personal goal is to become a MERN developer, also known as Full Stack developer, continuing to learn and refine my programming skills.
+💻 𝙈𝙀𝙍𝙉 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
-- 🌱 Currently learning **`BackEnd`**
+🚀 𝘼𝙨𝙩𝙧𝙤 (the goat)
 
-- 📅 Next Step: **`PostgreSQL`**
+⚛️ 𝙁𝙧𝙤𝙣𝙩𝙀𝙣𝙙 𝙢𝙖𝙞𝙣 | 👨‍💻 𝘽𝙖𝙘𝙠𝙚𝙀𝙣𝙙 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | 🎹 𝙋𝙞𝙖𝙣𝙤 𝙡𝙤𝙫𝙚𝙧 | 🎼 𝙁𝙧é𝙙é𝙧𝙞𝙘 𝘾𝙝𝙤𝙥𝙞𝙣
 
-- 👨‍💻 Check out my portfolio: [CV Portfolio](https://cv-portfolio-varjonathanr.netlify.app/)
+💡 𝑳𝒐𝒗𝒆 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒏𝒆𝒘. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
-<br>
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-## 🤝 Connect with me:
+[![Authentication App](https://svg.bookmark.style/api?url=https://github.com/varJonathanR/authentication-app&mode=light&style=horizontal)](https://github.com/varJonathanR/authentication-app)
 
-<a href="https://www.linkedin.com/in/jonathanrodriguez04" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" />
-</a>
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<br>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Astro](https://img.shields.io/badge/-Astro-%23BC52EE?style=flat-square&logo=astro&logoColor=000000)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
-## 🖥 Tech Stack
+![Node.js](https://img.shields.io/badge/-Node.js-%235FA04E?style=flat-square&logo=node.js&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![TursoDB](https://img.shields.io/badge/-TursoDB-%234FF8D2?style=flat-square&logo=turso&logoColor=000000)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TilwindCSS" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" align="left" width="45px" style="padding-right: 8px;" /><br>
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+![Virtual Box](https://img.shields.io/badge/-Virtual_Box-%23183A61?style=flat-square&logo=virtualbox&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" align="left" width="45px" style="padding-right: 8px;" /><br>
+## 𝗦𝘁𝗮𝘁𝘀
 
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" align="left" width="45px" style="padding-right: 8px;" />     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" align="left" width="45px" style="padding-right: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" align="left" width="45px" style="padding-right: 8px;" />
-<br>
-&nbsp;
-
-### 📅 Next Step
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" align="left" width="45px" style="padding-right: 8px;" />
-<br>       
-&nbsp;
-
-## 📃 Licenses & certifications
-
-[![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/varJonathanR/responsive-web-design)
-[![Responsive Web Developer](https://img.shields.io/badge/Responsive_Web_Developer-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/certificates/jixYg9EIzMo2Zmj8emO3)
-[![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/JavaScript_Algorithms_and_Data_Structures-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/varJonathanR/javascript-algorithms-and-data-structures)
-[![Front End Development Libraries](https://img.shields.io/badge/Front_End_Development_Libraries-0a0a23?style=for-the-badge&logo=Freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/varJonathanR/front-end-development-libraries)
-[![Redis | RU101 Certificate](https://img.shields.io/badge/Redis_|_RU101_Certificate-DD0031?style=for-the-badge&logo=redis&logoColor=white)](https://university.redis.com/certificates/b105f8f676774e6887971c2dc79a9ed9)
-[![Front End Developer](https://img.shields.io/badge/Front_End_Developer-ffffff?style=for-the-badge&logo=Accenture&logoColor=d33a03)](https://legacy.devchallenges.io/certificates/4sIdXFqwKwlbYQzU9Gnx)
-
-## ⚙️ **Showcase** projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Github Jobs</h3>
-      <div align="center">
-        <a href="https://github-jobs-varjonathanr.netlify.app/" target="_blank">
-          <img src="https://github.com/varJonathanR/github-jobs/blob/main/public/github-jobs_preview.png" width="400" alt="Edie homepage preview">
-        </a>
-        <div>
-          <a href="https://github.com/varJonathanR/github-jobs" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-24292e?style=for-the-badge&logo=github&logoColor=fafbfc">
-          </a>
-          <a href="https://github-jobs-varjonathanr.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-24292e?style=for-the-badge&logoColor=fafbfc">
-          </a>
-        </div>
-        <p>
-          ✔️ Coverage in 18 Countries <br>
-          ✔️ Filtering Options <br>
-          ✔️ Real-Time Updates <br>
-          ✔️ User-Friendly Interface <br>
-        </p>
-      </div>                                                                               
-    </td>
-    <td width="50%">
-      <h3 align="center">Weather App</h3>
-      <div align="center">
-        <a href="https://weather-app-varjonathanr.netlify.app/" target="_blank">
-          <img src="https://github.com/varJonathanR/weather-app/blob/main/public/weather-app_preview.PNG" width="400" alt="Weather App Preview">
-        </a>
-      <div>
-      <a href="https://github.com/varJonathanR/weather-app" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-24292e?style=for-the-badge&logo=github&logoColor=fafbfc">
-      </a>
-      <a href="https://weather-app-varjonathanr.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/DEMO-24292e?style=for-the-badge&logoColor=fafbfc">
-      </a>
-      <p>
-        ✔️ Global Coverage <br>
-        ✔️ 5-Day Forecast <br>
-        ✔️ Current Conditions <br>
-        ✔️ Geolocation <br>
-        ✔️ User-Friendly Interface 
-      </p>
-    </div>                                                                               
-  </td>                                                 
-</table>  
-  
-<br>
-
-## 📊 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varjonathanr&show_icons=true&locale=en&layout=compact&theme=dark" alt="varjonathanr" /></p>
+![varjonathanr's github stats](https://github-readme-stats.vercel.app/api?username=varjonathanr&show_icons=true&theme=dark)

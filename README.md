@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-@varjonathanr-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jonathanrodriguez04)
 [![](https://img.shields.io/badge/-@varjonathanr-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/varjonathanr)
-[![](https://img.shields.io/badge/-Portfolio-%23181717?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://github.com/varjonathanr)
+[![](https://img.shields.io/badge/-Portfolio-%23181717?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://cv-portfolio-varjonathanr.netlify.app/)
 
 💻 𝙈𝙀𝙍𝙉 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 

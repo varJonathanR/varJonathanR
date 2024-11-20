@@ -39,6 +39,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Virtual Box](https://img.shields.io/badge/-Virtual_Box-%23183A61?style=flat-square&logo=virtualbox&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23183A61?style=flat-square&logo=virtualbox&logoColor=ffffff)
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)

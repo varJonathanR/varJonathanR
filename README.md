@@ -4,11 +4,13 @@
 [![](https://img.shields.io/badge/-@varjonathanr-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/varjonathanr)
 [![](https://img.shields.io/badge/-Portfolio-%23181717?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://cv-portfolio-varjonathanr.netlify.app/)
 
+👨‍💻 I'm currently working at ![Omniservice](https://omniservice.com.sv/) as a FullStack developer
+
 💻 𝙈𝙀𝙍𝙉 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
 🚀 𝘼𝙨𝙩𝙧𝙤 (the goat)
 
-⚛️ 𝙁𝙧𝙤𝙣𝙩𝙀𝙣𝙙 𝙢𝙖𝙞𝙣 | 👨‍💻 𝘽𝙖𝙘𝙠𝙚𝙀𝙣𝙙 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | 🎹 𝙋𝙞𝙖𝙣𝙤 𝙡𝙤𝙫𝙚𝙧 | 🎼 𝙁𝙧é𝙙é𝙧𝙞𝙘 𝘾𝙝𝙤𝙥𝙞𝙣
+⚛️ 𝙁𝙧𝙤𝙣𝙩𝙀𝙣𝙙 𝙢𝙖𝙞𝙣 | 🌱 𝘽𝙖𝙘𝙠𝙚𝙀𝙣𝙙 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | 🎹 𝙋𝙞𝙖𝙣𝙤 𝙡𝙤𝙫𝙚𝙧 | 🎼 𝙁𝙧é𝙙é𝙧𝙞𝙘 𝘾𝙝𝙤𝙥𝙞𝙣
 
 💡 𝑳𝒐𝒗𝒆 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒏𝒆𝒘. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 

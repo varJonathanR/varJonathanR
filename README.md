@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@varjonathanr-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/varjonathanr)
 [![](https://img.shields.io/badge/-Portfolio-%23181717?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://cv-portfolio-varjonathanr.netlify.app/)
 
-👨‍💻 I'm currently working at ![Omniservice](https://omniservice.com.sv/) as a FullStack developer
+👨‍💻 I'm currently working at [Omniservice](https://omniservice.com.sv/) as a FullStack developer
 
 💻 𝙈𝙀𝙍𝙉 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 

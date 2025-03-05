@@ -30,6 +30,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-%235FA04E?style=flat-square&logo=node.js&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)

@@ -20,26 +20,26 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Astro](https://img.shields.io/badge/-Astro-%23BC52EE?style=flat-square&logo=astro&logoColor=000000)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-24292e?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-24292e?style=for-the-badge&logo=css)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-24292e?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292e?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=for-the-badge&logo=typescript)
+![React.js](https://img.shields.io/badge/React.js-24292e?style=for-the-badge&logo=react)
+![Astro](https://img.shields.io/badge/Astro-24292e?style=for-the-badge&logo=astro)
+![Next.js](https://img.shields.io/badge/Next.js-24292e?style=for-the-badge&logo=nextdotjs)
 
-![Node.js](https://img.shields.io/badge/-Node.js-%235FA04E?style=flat-square&logo=node.js&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![TursoDB](https://img.shields.io/badge/-TursoDB-%234FF8D2?style=flat-square&logo=turso&logoColor=000000)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter-24292e?style=for-the-badge&logo=flutter)
 
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95421?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-24292e?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MYSQL-24292e?style=for-the-badge&logo=mysql)
+![TursoDB](https://img.shields.io/badge/TursoDB-24292e?style=for-the-badge&logo=turso)
+![Docker](https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker)
+
+![Figma](https://img.shields.io/badge/Figma-24292e?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-24292e?style=for-the-badge&logo=git)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24292e?style=for-the-badge&logo=ubuntu)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-24292e?style=for-the-badge&logo=androidstudio)
 
 <details>
   <summary>𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨</summary>

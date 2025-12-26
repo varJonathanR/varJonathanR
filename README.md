@@ -10,13 +10,10 @@
 
 🚀 𝘼𝙨𝙩𝙧𝙤 (the goat)
 
-⚛️ 𝙁𝙧𝙤𝙣𝙩𝙀𝙣𝙙 𝙢𝙖𝙞𝙣 | 🌱 𝘽𝙖𝙘𝙠𝙚𝙀𝙣𝙙 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | 🎹 𝙋𝙞𝙖𝙣𝙤 𝙡𝙤𝙫𝙚𝙧 | 🎼 𝙁𝙧é𝙙é𝙧𝙞𝙘 𝘾𝙝𝙤𝙥𝙞𝙣
+
 
 💡 𝑳𝒐𝒗𝒆 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒏𝒆𝒘. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-[![Authentication App](https://svg.bookmark.style/api?url=https://github.com/varJonathanR/authentication-app&mode=light&style=horizontal)](https://github.com/varJonathanR/authentication-app)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -36,6 +33,7 @@
 ![TursoDB](https://img.shields.io/badge/TursoDB-24292e?style=for-the-badge&logo=turso)
 ![Docker](https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker)
 
+![n8n](https://img.shields.io/badge/n8n-24292e?style=for-the-badge&logo=n8n)
 ![Figma](https://img.shields.io/badge/Figma-24292e?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/Git-24292e?style=for-the-badge&logo=git)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24292e?style=for-the-badge&logo=ubuntu)

@@ -4,16 +4,11 @@
 [![](https://img.shields.io/badge/-@varjonathanr-%23181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/varjonathanr)
 [![](https://img.shields.io/badge/-Portfolio-%23181717?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://cv-portfolio-varjonathanr.netlify.app/)
 
-👨‍💻 I'm currently working at [Farmacias Economicas SV](https://www.farmaciaseconomicaselsalvador.com/PROD/ECOMMERCE) as Full Stack dev
-
 💻 𝙈𝙀𝙍𝙉 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
 🚀 𝘼𝙨𝙩𝙧𝙤 (the goat)
 
-
-
 💡 𝑳𝒐𝒗𝒆 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒏𝒆𝒘. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
-
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
